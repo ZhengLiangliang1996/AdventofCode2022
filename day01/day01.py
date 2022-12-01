@@ -32,7 +32,6 @@ def solution2():
     fn = os.path.join(PATH, 'day01', 'input.txt')
     l = read_txt(fn)
 
-    l = read_txt(fn)
     num = []
     small_sum = 0 
     for i in range(len(l)):
